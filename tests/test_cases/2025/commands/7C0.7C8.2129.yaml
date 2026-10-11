@@ -1,0 +1,11 @@
+command_id: 7C0.7C8.2129
+test_cases:
+- expected_values:
+    TERIOS_FLI_VOL: 4.62351
+  response: 7C803612923
+- expected_values:
+    TERIOS_FLI_VOL: 4.75561
+  response: 7C803612924
+- expected_values:
+    TERIOS_FLI_VOL: 9.37913
+  response: 7C803612947

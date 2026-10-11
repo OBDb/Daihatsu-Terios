@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Daihatsu_Terios"
+
+generations:
+  - name: "Third Generation (F800)"
+    start_year: 2017
+    end_year: null
+    description: "A seven-seat SUV built alongside the Toyota Rush, with a 1.5 L 2NR-VE engine."
